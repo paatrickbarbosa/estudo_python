@@ -1,0 +1,1 @@
+# Textos usados nos exercicios
