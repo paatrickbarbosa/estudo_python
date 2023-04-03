@@ -1,3 +1,12 @@
+# ----------> IMPORTANTE !!<----------
+
+# Para que o codigo funcione em sua máquina é neces
+# Alterar coordenadas da linha 20 - Nessa linha é onde está a coordenada do meu navegador
+# Usei tab para navegar no site
+# o site em questão usado nao era preciso clicar no campo de login para inserir algum dado
+
+# ----------> IMPORTANTE !!<----------
+
 #importações das libs
 import pyautogui
 import time 
